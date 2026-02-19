@@ -39,5 +39,10 @@ Axios: HTTP client for making API calls from both frontend and backend.
 Nodemon: Tool for automatically restarting the server during development.
 
 Deployment:
-Link to back-end repo: [se_project_express] (https://github.com/Dzari/se_project_express) Link to frontend website hosted on Google VM cloud: https://wtwr.apps.dj Link to backend website: https://api.wtwr.apps.dj
 
+This project is currently deployed using the free version on Render. This means that the backend and database can take a few minutes to spin up. The frontend can be viewed at any time but won't show any clothing items and logging in with the mock profile can take a while.
+
+Mock Username: test@test.com
+Mock Password: asdf
+
+Link to front-end repo: [se_project_react] (https://github.com/Dzari/se_project_react) Link to deployed frontend website: https://se-project-react-dg2c.onrender.com Link to backend website: https://se-project-express-7ttb.onrender.com
